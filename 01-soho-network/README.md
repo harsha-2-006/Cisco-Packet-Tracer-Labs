@@ -5,7 +5,7 @@
 This lab demonstrates the design and implementation of a Small Office/Home Office (SOHO) network using Cisco Packet Tracer. The network supports both wired and wireless clients with automatic IP configuration using DHCP.
 
 ---
-
+<img src="Screenshot%202026-04-21%20174239.png" width="600">
 ## Topology
 
 The network consists of:
